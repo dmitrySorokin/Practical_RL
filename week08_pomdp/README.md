@@ -1,5 +1,5 @@
 # Materials
-[lecture slides](https://yadi.sk/d/RGx8BUCr3Gq6DC)
+[lecture slides](https://yadi.sk/i/3-4q71hhwtFxuw)
 
 _Links on all articles mentioned during the lecture could be found in "References" at the very end of the presentation slides. All other interesing links which contribute to the topic of POMDP are presented below_
 
@@ -23,5 +23,6 @@ _Links on all articles mentioned during the lecture could be found in "Reference
 
 # Practice
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yandexdataschool/Practical_RL/blob/spring19/week08_pomdp/practice_pytorch.ipynb)
 
 The assignment is platform and framewerk independent, so choose the framework that suits you best, but pay attention on how many you will need to implement youself in case of nonstandart ones.
